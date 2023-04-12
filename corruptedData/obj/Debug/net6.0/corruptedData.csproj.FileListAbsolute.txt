@@ -1,0 +1,15 @@
+/Users/ever/Projects/corruptedData/corruptedData/bin/Debug/net6.0/corruptedData
+/Users/ever/Projects/corruptedData/corruptedData/bin/Debug/net6.0/corruptedData.deps.json
+/Users/ever/Projects/corruptedData/corruptedData/bin/Debug/net6.0/corruptedData.runtimeconfig.json
+/Users/ever/Projects/corruptedData/corruptedData/bin/Debug/net6.0/corruptedData.dll
+/Users/ever/Projects/corruptedData/corruptedData/bin/Debug/net6.0/corruptedData.pdb
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.csproj.AssemblyReference.cache
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.AssemblyInfoInputs.cache
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.AssemblyInfo.cs
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.csproj.CoreCompileInputs.cache
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.dll
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/refint/corruptedData.dll
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.pdb
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/corruptedData.genruntimeconfig.cache
+/Users/ever/Projects/corruptedData/corruptedData/obj/Debug/net6.0/ref/corruptedData.dll
